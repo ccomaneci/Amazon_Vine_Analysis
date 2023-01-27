@@ -11,7 +11,7 @@
 
 ### once we processed the data we determiend the amount of reviews, how many were 5 star review, and the precentages of both the paid and unpaid vine reviews. It was found that there is a greater amount of unpaid reviews. 
 
-####Paid
+#### Paid
 
 ![image 2](https://user-images.githubusercontent.com/112769590/215011775-3f472c4d-4fa2-4dcf-a4db-96a408080a47.png)
 ![image 4](https://user-images.githubusercontent.com/112769590/215011778-bf4bd6f8-9bb9-43d6-9380-d8cafd3df380.png)
